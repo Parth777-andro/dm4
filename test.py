@@ -1,1 +1,1 @@
-vxvcvxvxvx
+print("Goodbye, World!")
